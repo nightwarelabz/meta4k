@@ -31,6 +31,8 @@ letterforms and ribbon silhouette were measured from.
 
 ## Files
 
+- `meta4k.krell` — the complete Krell source. Build with `krellc` and run
+  `./meta4k <frame>` to write that frame to stdout as a binary PPM.
 - `meta4k.png` — the frame-0 still at full 3840 × 2160
 - The films are attached to this repository's
   [Releases](https://github.com/nightwarelabz/meta4k/releases): the 4K
